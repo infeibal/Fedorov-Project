@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fedorov-Project/static/css/main.3ae2727d.css",
+    "main.js": "/Fedorov-Project/static/js/main.251d16d9.js",
+    "index.html": "/Fedorov-Project/index.html",
+    "main.3ae2727d.css.map": "/Fedorov-Project/static/css/main.3ae2727d.css.map",
+    "main.251d16d9.js.map": "/Fedorov-Project/static/js/main.251d16d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ae2727d.css",
+    "static/js/main.251d16d9.js"
+  ]
+}
